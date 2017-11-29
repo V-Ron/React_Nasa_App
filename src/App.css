@@ -1,0 +1,41 @@
+.App {
+  text-align: left;
+}
+
+.background {
+  background-image: url(https://images.unsplash.com/photo-1478502161016-a691575b097b?auto=format&fit=crop&w=1350&q=80&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D);
+  background-position: top;
+  background-repeat: no-repeat;
+}
+
+img {
+  width: 20%;
+  height: 10%;
+  float: left;
+  margin-right: .8em;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  /*text-shadow: 1px 1px yellow;*/
+  font-family: 'Monoton', cursive;
+
+}
+h3 {
+  font-family: arial;
+}
+
+.navbar-brand {
+  font-size: 1em;
+  font-family: 'Monoton', cursive;
+}
+.nasaTable{
+  margin: 20px;
+  border: 2px grey solid;
+  text-align: center;
+  background-color: #1B648E;
+}
+th {
+  color: white;
+}
