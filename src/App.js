@@ -54,7 +54,6 @@ class App extends Component {
         <nav class="navbar navbar-inverse">
           <div class="container-fluid">
             <div class="navbar-header">
-              <img class="asteroid" src="asteroid-icon.ico"/>
             </div>
           </div>
         </nav>
